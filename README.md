@@ -290,7 +290,7 @@ node index.js
 
 ```bash
 # 克隆项目
-git clone <repo-url>
+git clone https://github.com/chen233810962/wecom-opencode.git
 
 # 复制到目标项目根目录
 cp -r wecom-opencode /项目目录/
