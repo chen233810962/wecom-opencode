@@ -311,4 +311,12 @@ node index.js
 
 ---
 
+## 感谢支持
+
+<img width="375" height="401" alt="9e3946c97b24c3d5c67eabf370458c4e" src="https://github.com/user-attachments/assets/f4430a56-1137-4412-a08d-701d917cdb0d" />
+
+
+
+
+
 
